@@ -152,7 +152,7 @@ Add your meme images (`.jpg`, `.png`, `.webp`).
 Run the application:
 
 ```bash
-python main.py
+python meme.py
 ```
 
 ### First Run
