@@ -82,24 +82,3 @@ Start searching using natural language!
 
 ---
 
-## 🧾 Example Metadata
-
-```json
-{
-    "title": "The Infinite Loop Struggle",
-    "category": "programming",
-    "keywords": ["coding", "loop", "frustration"],
-    "funniness": 8
-}
-```
-
----
-
-## 🧠 Tech Stack
-
-* **LLM:** Llama 3 (Groq API)
-* **Embeddings:** Sentence Transformers
-* **Vector DB:** ChromaDB
-* **OCR:** EasyOCR
-* **UI:** Gradio
-* **Image Processing:** Pillow + ImageHash
